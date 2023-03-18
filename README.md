@@ -7,7 +7,6 @@
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1316">Android developer mode</li>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1316">Уникальный Package name</li>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1513">Minimum API</li>
-<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1513">Minimum API</li>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1580">Разработка под определенную версию android</li>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1820">Разбор файловой системы</li>
 <ul>
@@ -19,7 +18,8 @@
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1989">Build scripts</li>
 </ul>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=2056">Logcat</li>
-  <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=2144">Worckshop</li>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=2144">Workshop</li>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=2144">Android components</li>
 
 
 
