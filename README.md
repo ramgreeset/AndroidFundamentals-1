@@ -3,6 +3,7 @@
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=913">Android SDK</li>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=938">Версии Android и API level </li>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1045">SDK Manager</li>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1154">AVD Manager</li>
 
 
 
