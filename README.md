@@ -19,7 +19,22 @@
 </ul>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=2056">Logcat</li>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=2144">Workshop</li>
-<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=2144">Android components</li>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=2144">Android components
+<ul>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1820">APK File</li>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=4096">AndroidManifest.xml</li>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=4165">Activity</li>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=4210">Life cycle</li>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=4296">intent-filter</li>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=4364">Main-Activity</li>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=4407">R.layout.activity_main</li>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=4642">Strings</li>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1820">res folder, assets, resources.arcs - resources</li>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1820">classes.dex - pre-compiled code</li>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1820">META-INF - info obout signature</li>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1989">lib - pre-compiled code that depend on architecture</li>
+</ul>  
+</li>
 
 
 
