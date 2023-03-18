@@ -18,7 +18,7 @@
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1989">Build scripts</li>
 </ul>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=2056">Logcat</li>
-<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=2144">Workshop</li>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=2144">Workshop №1</li>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=2144">Android components
 <ul>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1820">APK File</li>
@@ -30,9 +30,13 @@
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=4407">R.layout.activity_main</li>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=4642">Strings</li>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1820">res folder, assets, resources.arcs - resources</li>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=4769">Qualifires | Квалификаторы</li>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=4941">Виды квалификаторов</li>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1820">classes.dex - pre-compiled code</li>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1820">META-INF - info obout signature</li>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1989">lib - pre-compiled code that depend on architecture</li>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=5001">Workshop №2</li>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=6463">Gradle</li>
 </ul>  
 </li>
 
