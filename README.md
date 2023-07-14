@@ -19,7 +19,7 @@
 </ul>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=2056">Logcat</li>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=2144">Workshop №1</li>
-<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=2144">Android components
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=3978">Android components
 <ul>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1820">APK File</li>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=4096">AndroidManifest.xml</li>
