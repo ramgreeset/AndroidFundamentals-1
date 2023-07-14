@@ -29,7 +29,7 @@
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=4364">Main-Activity</li>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=4407">R.layout.activity_main</li>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=4642">Strings</li>
-<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1820">res folder, assets, resources.arcs - resources</li>
+<li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=4717">res folder, assets, resources.arcs - resources</li>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=4769">Qualifires | Квалификаторы</li>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=4941">Виды квалификаторов</li>
 <li><a href ="https://www.youtube.com/live/d0944nsdnAg?feature=share&t=1820">classes.dex - pre-compiled code</li>
